@@ -1,0 +1,27 @@
+{
+    "id": "548bef84-4c7f-4510-b43a-25e58a287272",
+    "numTomador": 8146,
+    "version": 54,
+    "nombre": "Amalio",
+    "apellido1": "Parks",
+    "apellido2": "Crus",
+    "documento": "X6504867F",
+    "documentoTomador": "X6504867F",
+    "musaRole": "ROLE_MUSA_TOMADOR",
+    "telefono": "915526519",
+    "telefono2": "622360428",
+    "email": "dimitri@gmail.com",
+    "direccion": "C/ Dalí Nº70",
+    "codigoPostal": "28210",
+    "ciudad": "VALDEMORILLO",
+    "provincia": "MADRID",
+    "periodicidadPrima": "TRIMESTRAL",
+    "iBANTomador": "ES82",
+    "titularTomador": "8146",
+    "iBANAsegurado": null,
+    "titularAsegurado": null,
+    "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+    "role": [
+      "TOMADOR"
+    ]
+  }

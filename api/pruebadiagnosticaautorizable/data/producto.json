@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "codigoProducto": 0,
+    "descripcion": "DENSITOMETRIAS",
+    "coberturaId": "48afad36-4966-48fd-8ddb-911790965319",
+    "diasCarencia": 1,
+    "maximasPermitidasPorA": 1,
+    "requiereVolante": true,
+    "tipoName": "pruebaDiagnosticas"
+  },
+  {
+    "id": "2",
+    "codigoProducto": 0,
+    "descripcion": "OTROS ACTOS",
+    "coberturaId": null,
+    "diasCarencia": 1,
+    "maximasPermitidasPorA": 0,
+    "requiereVolante": true,
+    "tipoName": null
+  },
+  {
+    "id": "3",
+    "codigoProducto": 0,
+    "descripcion": "CURSO DE PREPARACIÓN AL PARTO",
+    "coberturaId": "aa2e840f-29f8-4717-8685-6821a62fc976",
+    "diasCarencia": 1,
+    "maximasPermitidasPorA": 1,
+    "requiereVolante": true,
+    "tipoName": "especialidades"
+  },
+  {
+    "id": "4",
+    "codigoProducto": 0,
+    "descripcion": "PODOLOGÍA",
+    "coberturaId": "9bf8980c-7e69-41ad-8eee-d62670b0b984",
+    "diasCarencia": 1,
+    "maximasPermitidasPorA": 4,
+    "requiereVolante": false,
+    "tipoName": "especialidades"
+  },
+  {
+    "id": "5",
+    "codigoProducto": 0,
+    "descripcion": "PRUEBA DE ESFUERZO",
+    "coberturaId": "8bbb8d1e-20b4-4ede-8fa1-699d70d48966",
+    "diasCarencia": 1,
+    "maximasPermitidasPorA": 12,
+    "requiereVolante": true,
+    "tipoName": "especialidades"
+  }
+]

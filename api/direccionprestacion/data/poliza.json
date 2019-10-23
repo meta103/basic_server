@@ -1,0 +1,26 @@
+[
+  {
+    "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+    "version": 91,
+    "direccion": "Direccion",
+    "ciudad": "VALDEMORILLO",
+    "provincia": "MADRID",
+    "cp": "28210",
+    "telefono": "622360427",
+    "email": "hcrojas@profile.es",
+    "documento": "X6504867F",
+    "musaRole": "ROLE_MUSA_TOMADOR"
+  },
+  {
+    "polizaId": "b3424b06-59c3-4f9b-8a10-c7959620397e",
+    "version": 21,
+    "direccion": " C/ Serrano 11 4º Izd",
+    "ciudad": "MADRID",
+    "provincia": "MADRID",
+    "cp": "28049",
+    "telefono": "987766678",
+    "email": "email@mail.es",
+    "documento": "X6504867F",
+    "musaRole": "ROLE_MUSA_TOMADOR"
+  }
+]

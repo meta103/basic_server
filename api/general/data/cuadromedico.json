@@ -1,0 +1,777 @@
+{
+    "_embedded": {
+      "cuadroMedicos": [
+        {
+          "sedeId": "42cd70be-9d12-4102-a509-12584864b27a",
+          "poblacionSede": "TORRRELODONES",
+          "codigoPostalSede": "28250",
+          "direccionSede": "AVENIDA CASTILLO DE OLIVARES S/N",
+          "email_sede": " ",
+          "nombreSede": "ABACID",
+          "observacionSede": " ",
+          "prioritario": 0,
+          "codigoProveedor": "42073",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "912675000",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "272341e5-418f-11e8-83dc-005056bd730d",
+              "name": "Análisis Clínicos",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa5afaa-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfa94c0f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfac438f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfaf15c7-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb1db0a-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb56e33-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb86db9-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbd056f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc0be0b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": true
+        },
+        {
+          "sedeId": "aadcb369-437e-4a41-bdcc-6857a5017834",
+          "poblacionSede": "BOADILLA DE MONTE",
+          "codigoPostalSede": "28660",
+          "direccionSede": "AVENIDA DE MONTEPRÍNCIPE 25",
+          "email_sede": " ",
+          "nombreSede": "ABACID",
+          "observacionSede": " ",
+          "prioritario": 0,
+          "codigoProveedor": "42073",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "902089800",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "273bf184-418f-11e8-83dc-005056bd730d",
+              "name": "Análisis Clínicos",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa6e99e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfaa35d8-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfad1868-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfafdca5-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb2d7b7-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb65c6f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb95c36-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbe40b4-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc1d4b7-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        },
+        {
+          "sedeId": "b1355000-8226-4f3a-aebb-38d48c6ecf7b",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28050",
+          "direccionSede": "CALLE OÑA, 10",
+          "email_sede": " ",
+          "nombreSede": "ABACID",
+          "observacionSede": " ",
+          "prioritario": 0,
+          "codigoProveedor": "42073",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "917567820",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "273c7937-418f-11e8-83dc-005056bd730d",
+              "name": "Análisis Clínicos",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa70319-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfaa4374-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfad2ef3-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfafe8b6-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb2e73f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb6670c-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb96f80-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbe4a7a-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc1e486-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        },
+        {
+          "sedeId": "89cf75dc-7076-469e-b116-cee4d89c786a",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28046",
+          "direccionSede": "PASEO DE LA CASTELLANA 170, LOCAL",
+          "email_sede": "jm.abadesteban@gmail.com",
+          "nombreSede": "ABAD ESTEBAN, JOSÉ MARÍA ",
+          "observacionSede": "Horario, previa petición, de lunes a viernes de 8 a 14 y de 17 a 20 h.",
+          "prioritario": 0,
+          "codigoProveedor": "10204",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "913596063",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "2732baf3-418f-11e8-83dc-005056bd730d",
+              "name": "Medicina General",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa69846-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfa9eb8b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cface129-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfafa5ff-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb298cd-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb6180e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb90801-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbdb62b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc17409-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc4b365-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        },
+        {
+          "sedeId": "295170ac-e95a-455b-95c6-8f3cf84863d6",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28009",
+          "direccionSede": "CALLE TOMÁS LÓPEZ 3, LOCAL",
+          "email_sede": "abiremdiagnostico@gmail.com",
+          "nombreSede": "ABIREM",
+          "observacionSede": "Ecografías, horario, previa petición, lunes y viernes de 9 a 15 h., martes, miércoles y jueves de 9 a 14 y de 16 a 21 h.",
+          "prioritario": 0,
+          "codigoProveedor": "41048",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "914017012",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "27208624-418f-11e8-83dc-005056bd730d",
+              "name": "Medicina General",
+              "observacion": "Dra. Yahima Santama Trebol",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            },
+            {
+              "id": "271b418c-418f-11e8-83dc-005056bd730d",
+              "name": "Radiodiagnostico",
+              "observacion": "Dra. Eva Mª Labrador Barba y Dr. Juan Martín Rodríguez",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            },
+            {
+              "id": "271b41df-418f-11e8-83dc-005056bd730d",
+              "name": "Rehabilitación",
+              "observacion": "Dr. Francisco Pascual Martín-Gamero Fisioterapéuta: Dª Sofía Guerra González",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            },
+            {
+              "id": "272087e2-418f-11e8-83dc-005056bd730d",
+              "name": "Traumatología y Cirugía Ortopédica",
+              "observacion": "Dr. Francisco Pascual Martín-Gamero",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa33911-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 12
+            },
+            {
+              "id": "cfa56302-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfa90d28-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfac066d-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfaed9a8-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb1984d-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb533d0-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb8395b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbcd17a-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc08124-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc3d65c-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [
+            {
+              "id": "57c20dad-418e-11e8-83dc-005056bd730d",
+              "name": "DENSITOMETRIAS"
+            },
+            {
+              "id": "57c2a02e-418e-11e8-83dc-005056bd730d",
+              "name": "ECOGRAFÍAS"
+            },
+            {
+              "id": "57c44fca-418e-11e8-83dc-005056bd730d",
+              "name": "MAMOGRAFÍAS"
+            },
+            {
+              "id": "57c47a68-418e-11e8-83dc-005056bd730d",
+              "name": "RESONANCIA MAGNÉTICA NUCLEAR"
+            }
+          ],
+          "miMedico": false
+        },
+        {
+          "sedeId": "e5d81fcc-720e-4988-968d-b0c1e9cd0454",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28007",
+          "direccionSede": "CALLE JESÚS APRENDIZ 19, LOCAL",
+          "email_sede": "abiremdiagnostico@gmail.com",
+          "nombreSede": "ABIREM",
+          "observacionSede": "Horario, previa petición, de lunes a viernes de 9 a 14 y de 16 a 20 h.",
+          "prioritario": 0,
+          "codigoProveedor": "41048",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "914340222",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "271c6ce9-418f-11e8-83dc-005056bd730d",
+              "name": "Radiodiagnostico",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa47bfa-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 12
+            },
+            {
+              "id": "cfa85b94-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfab6448-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfae3a3e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfb0fe2b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb40293-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb778b6-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfbc14a8-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbfd056-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc33a50-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc60ff1-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [
+            {
+              "id": "57c210b3-418e-11e8-83dc-005056bd730d",
+              "name": "DENSITOMETRIAS"
+            },
+            {
+              "id": "57c2a3ac-418e-11e8-83dc-005056bd730d",
+              "name": "ECOGRAFÍAS"
+            },
+            {
+              "id": "57c45f51-418e-11e8-83dc-005056bd730d",
+              "name": "MAMOGRAFÍAS"
+            },
+            {
+              "id": "57c47c99-418e-11e8-83dc-005056bd730d",
+              "name": "RESONANCIA MAGNÉTICA NUCLEAR"
+            }
+          ],
+          "miMedico": false
+        },
+        {
+          "sedeId": "dec8a347-c1fc-4935-b434-5b077dfb6d18",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28005",
+          "direccionSede": "PASEO DE LAS ACACIAS, 39",
+          "email_sede": " ",
+          "nombreSede": "ACACIAS CENTRO DE REHABILITACIÓN",
+          "observacionSede": "Horario previa petición de lunes a viernes de 8 a 14 y de 15,30 a 21 h.",
+          "prioritario": 0,
+          "codigoProveedor": "182040",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "915392678",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "274b1e89-418f-11e8-83dc-005056bd730d",
+              "name": "Rehabilitación",
+              "observacion": "Fisioterapéutas: Ana Beatriz Tebar de la Viuda, Borja Martínez Domínguez, María Alonso Torra, Miguel Angel Pérez Jiménez",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa840ea-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfab53cc-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfae2f8a-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfb0f254-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb3f6f7-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb765a5-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfbc0510-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbfc1b1-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc32ede-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc6003f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        },
+        {
+          "sedeId": "b96fb13c-92bb-4df2-8a11-883e65514c6f",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28028",
+          "direccionSede": "CALLE FRANCISCO SILVELA 19, 1ºC",
+          "email_sede": " ",
+          "nombreSede": "ADAL PSICÓLOGOS",
+          "observacionSede": "Horario, previa petición, de lunes a viernes de 10 a 21 h.",
+          "prioritario": 0,
+          "codigoProveedor": "164001",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "914019291",
+          "tipoCuadro": 3,
+          "especialidades": [
+            {
+              "id": "271c03dd-418f-11e8-83dc-005056bd730d",
+              "name": "Psicología",
+              "observacion": " ",
+              "infantil": true,
+              "urgencias24": false,
+              "urgenciasDia": false
+            },
+            {
+              "id": "271c06ef-418f-11e8-83dc-005056bd730d",
+              "name": "Psicología",
+              "observacion": " ",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa3faf2-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 12
+            },
+            {
+              "id": "cfa7a5dd-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfaab3bf-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfad9ce1-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfb05d95-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb35bf9-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb6e87f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb9f273-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbeee40-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc2914c-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc55d66-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        },
+        {
+          "sedeId": "4ac85181-f709-439b-9e22-96ee59c49976",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28010",
+          "direccionSede": "CALLE EDUARDO DATO 3, 1ª PTA.",
+          "email_sede": " ",
+          "nombreSede": "AGE AGRUPACIÓN GINECOLÓGICA ESPAÑOLA",
+          "observacionSede": " ",
+          "prioritario": 0,
+          "codigoProveedor": "168055",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "917375222",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "2723a2bb-418f-11e8-83dc-005056bd730d",
+              "name": "Obstetricia y Ginecología",
+              "observacion": "Dr. Marcos Cantarero Bandrés, Dra. Isabel Calventus Periago, Dra. Rocío Cantarero García, Dra. Alicia Martín Sanz, Dra. Soledad Martínez García, Dra. Teresa Troisi López y Dra. Laura Almarza López",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa5d6ea-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfa96719-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfac6207-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfaf2d35-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb1fa9f-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb5a238-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb88b2e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbd23e0-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc0e885-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc4330e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [
+            {
+              "id": "57c1ec77-418e-11e8-83dc-005056bd730d",
+              "name": "CURSO DE PREPARACIÓN AL PARTO"
+            }
+          ],
+          "miMedico": false
+        },
+        {
+          "sedeId": "6b2838c5-232a-4bc1-b2bc-b25ba4d1dbe0",
+          "poblacionSede": "MADRID",
+          "codigoPostalSede": "28005",
+          "direccionSede": "CALLE SAN BERNABÉ 13, 1ª PTA. ",
+          "email_sede": " ",
+          "nombreSede": "AGRUPACIÓN MÉDICO QUIRÚRGICA OFTALMOS",
+          "observacionSede": "HOSPITAL LA VOT DE SAN FRANCISCO",
+          "prioritario": 0,
+          "codigoProveedor": "170025",
+          "provinciaSede": "MADRID",
+          "telefonoSede": "913657600",
+          "tipoCuadro": 1,
+          "especialidades": [
+            {
+              "id": "272719d9-418f-11e8-83dc-005056bd730d",
+              "name": "Oftalmología",
+              "observacion": "Dr. Donate López, Dr. García Gil de Bernabé, Dr. Martínez de la Casa, Dr. Santos Bueso, Dr. Saenz Francés, Dra. Sánchez Pulgarin y Dr. Ruiz Calvo",
+              "infantil": false,
+              "urgencias24": false,
+              "urgenciasDia": false
+            }
+          ],
+          "productos": [
+            {
+              "id": "cfa62781-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 18
+            },
+            {
+              "id": "cfa9a9ee-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 14
+            },
+            {
+              "id": "cfac9cf2-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 1
+            },
+            {
+              "id": "cfaf614e-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 6
+            },
+            {
+              "id": "cfb2467c-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 7
+            },
+            {
+              "id": "cfb5da22-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 11
+            },
+            {
+              "id": "cfb8c945-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 0
+            },
+            {
+              "id": "cfbd7374-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 15
+            },
+            {
+              "id": "cfc132c5-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 16
+            },
+            {
+              "id": "cfc4664b-418d-11e8-83dc-005056bd730d",
+              "codigoProducto": 17
+            }
+          ],
+          "pruebaDiagnosticas": [],
+          "miMedico": false
+        }
+      ]
+    },
+    "_links": {
+      "first": {
+        "href": "http://localhost:8080/userrest/cuadromedico?page=0&size=10&sort=prioritario,nombreSede,asc"
+      },
+      "self": {
+        "href": "http://localhost:8080/userrest/cuadromedico?page=0&size=10&sort=prioritario,nombreSede,asc"
+      },
+      "next": {
+        "href": "http://localhost:8080/userrest/cuadromedico?page=1&size=10&sort=prioritario,nombreSede,asc"
+      },
+      "last": {
+        "href": "http://localhost:8080/userrest/cuadromedico?page=90&size=10&sort=prioritario,nombreSede,asc"
+      }
+    },
+    "page": {
+      "size": 10,
+      "totalElements": 903,
+      "totalPages": 91,
+      "number": 0
+    }
+  }

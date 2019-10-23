@@ -1,0 +1,46 @@
+[
+  {
+    "fechaNacimiento": "1938-02-12",
+    "numAsegurado": 15316,
+    "documento": "50983475L",
+    "nombre": "Amalio",
+    "apellido1": "Parks",
+    "apellido2": "Crus",
+    "prima": 0,
+    "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+    "fechaDeAlta": "2019-04-04",
+    "tarjeta": "00153160",
+    "musaRole": "ROLE_MUSA_TOMADOR",
+    "role": [
+      "ASEGURADO"
+    ],
+    "fechaFinCarenciaGenerica": "2019-04-21",
+    "telefonoAPP": "685601642",
+    "activarApp": false,
+    "email": "jlucena@nuevamutuasanitaria.es",
+    "autorizarMenores": false,
+    "id": "67b38401-cda6-4c24-8a12-bf7476245e78"
+  },
+  {
+    "fechaNacimiento": "1945-05-18",
+    "numAsegurado": 15317,
+    "documento": "X6504867F",
+    "nombre": "Fausta",
+    "apellido1": "Steel",
+    "apellido2": "Nabal",
+    "prima": 0,
+    "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+    "fechaDeAlta": "2014-06-01",
+    "tarjeta": "00153170",
+    "musaRole": "ROLE_MUSA_TOMADOR",
+    "role": [
+      "ASEGURADO"
+    ],
+    "fechaFinCarenciaGenerica": "2019-04-21",
+    "telefonoAPP": "685601642",
+    "activarApp": false,
+    "email": "jlucena@nuevamutuasanitaria.es",
+    "autorizarMenores": false,
+    "id": "72346775-eb93-462b-8794-d4e20ceeea3e"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "prima": 0,
+    "suplemento": 0,
+    "taxRate": "0.15",
+    "documento": "X6504867F",
+    "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+    "musaRole": "ROLE_MUSA_TOMADOR"
+  },
+  {
+    "prima": 0,
+    "suplemento": 0,
+    "taxRate": "0.15",
+    "documento": "X6504867F",
+    "polizaId": "b3424b06-59c3-4f9b-8a10-c7959620397e",
+    "musaRole": "ROLE_MUSA_TOMADOR"
+  }
+]

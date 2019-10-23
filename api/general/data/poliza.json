@@ -1,0 +1,38 @@
+[
+    {
+      "documento": "X6504867F",
+      "polizaId": "7a42d8fb-ef0f-4a96-a8a3-c36376115327",
+      "numPoliza": 8150,
+      "producto": "Salud Abogacía Familia",
+      "codigoProducto": 0,
+      "musaRole": "ROLE_MUSA_TOMADOR",
+      "fechaAlta": "2014-06-01",
+      "tipoPoliza": "Individual",
+      "copago": true,
+      "version": 0,
+      "fechaVencimiento": "2019-12-31",
+      "colectiva": false,
+      "condicionado": 501,
+      "role": [
+        "TOMADOR"
+      ]
+    },
+    {
+      "documento": "X6504867F",
+      "polizaId": "b3424b06-59c3-4f9b-8a10-c7959620397e",
+      "numPoliza": 10644,
+      "producto": "Salud Abogacía Familia",
+      "codigoProducto": 0,
+      "musaRole": "ROLE_MUSA_TOMADOR",
+      "fechaAlta": "2014-06-01",
+      "tipoPoliza": "Individual",
+      "copago": true,
+      "version": 0,
+      "fechaVencimiento": "2019-12-31",
+      "colectiva": false,
+      "condicionado": 501,
+      "role": [
+        "TOMADOR"
+      ]
+    }
+  ]

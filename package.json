@@ -1,0 +1,25 @@
+{
+  "name": "mock-server",
+  "version": "0.6.1",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./server.ts",
+    "start-server": "./node_modules/.bin/ts-node ./server.ts --secure",
+    "server": "./node_modules/.bin/nodemon  -w ./server --ext \".ts\" --exec \"npm run start-server\""
+  },
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^8.9.5",
+    "body-parser": "^1.18.3",
+    "copyfiles": "^2.1.0",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2",
+    "moment": "^2.23.0",
+    "ts-node": "^7.0.1",
+    "typescript": "~3.1.6"
+  },
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "https": "^1.0.0"
+  }
+}
